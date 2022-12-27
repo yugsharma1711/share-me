@@ -12,7 +12,7 @@ The project's backend is created using Sanity. The authentication system is adde
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/yugsharma1711/share-me.git)
+  git clone https://github.com/yugsharma1711/share-me.git
 ```
 
 Go to the project directory
