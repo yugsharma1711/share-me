@@ -5,7 +5,7 @@ A social media web app which lets you upload images , add captions alongwith tit
 The project's backend is created using Sanity. The authentication system is added using GoogleOAuth which has helped in seamless login and signup of users. Images uploaded can be downloaded in full resolution as no compression is added to the uploaded images.The final deployment is done on firebase.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](![image](https://user-images.githubusercontent.com/75081002/209622839-e25aeecc-7d2a-47d0-bd9a-defa9eff260e.png)e)
 
 ## Run Locally
 
